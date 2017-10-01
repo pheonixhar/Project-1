@@ -1,1 +1,4 @@
 The project is a used to make a model to classify traffic signs.  
+The code uses simple image classifcation model written using tensorflow.
+
+Loss is calculated using cross entropy loss
